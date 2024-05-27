@@ -2,6 +2,9 @@
 git clone https://github.com/crackkillz/chromecrack.git
 ```
 ```
+cd chromecrack
+```
+```
 pip install pywin32
 ```
 ```
